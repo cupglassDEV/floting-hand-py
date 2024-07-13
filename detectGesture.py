@@ -20,7 +20,7 @@ class detectGesture():
     
    with GestureRecognizer.create_from_options(options) as recognizer:
     def __init__(self):
-        self.
+        pass
         # i think i like the default value of ALL settings that configured default
     def findGesture(self, image):
            try:
